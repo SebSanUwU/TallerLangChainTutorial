@@ -58,4 +58,4 @@ En este repositorio se realiza el tutorial de LangChain **[Build a Simple LLM Ap
 
 ### Autor
 
-* **Juan Sebastián Camargo Sánchez** - *AREP* - [SebSanUwU](https://github.com/SebSanUwU)# TallerLangChainTutorial
+* **Juan Sebastián Camargo Sánchez** - *AREP* - [SebSanUwU](https://github.com/SebSanUwU)
