@@ -10,10 +10,10 @@ En este repositorio se realiza el tutorial de LangChain **[Build a Simple LLM Ap
 
 ### Setup
 
-- **Python 3.12.1**: Lenguaje de programación utilizado para ejecutar todo el entorno. Asegúrate de tener Python instalado (preferiblemente una versión 3.7 o superior).
-- **Jupyter Notebook**: Utilizado para interactuar con el código y visualizar los resultados del modelo LLM.
-- **LangChain**: Framework de Python utilizado para crear flujos de trabajo con modelos de lenguaje y datos externos.
-- **LangServe**: Servidor de Python que expone el modelo LLM como una API REST, permitiendo la interacción a través de solicitudes HTTP.
+- **Python 3.12.1**: Lenguaje de programación utilizado para ejecutar todo el entorno.
+- **Jupyter Notebook 6.5.4**: Utilizado para interactuar con el código y visualizar los resultados del modelo LLM.
+- **LangChain 0.0.3**: Framework de Python utilizado para crear flujos de trabajo con modelos de lenguaje y datos externos.
+- **LangServe 0.1.2**: Servidor de Python que expone el modelo LLM como una API REST, permitiendo la interacción a través de solicitudes HTTP.
 
 
 ### Instalación
